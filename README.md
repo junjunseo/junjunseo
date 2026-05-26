@@ -42,7 +42,7 @@ Backend Developer focused on building reliable APIs and scalable services with S
 
 - 🎓 Hongik University — Computer Engineering (Class of 2022)
 - 🚀 UMC Hongik — Senior Course Backend Developer
-- ❄️ Cotato — Backend Developer
+- ❄️ Cotato — Backend Developer Lead
 - 🌏 GDG Hongik — Backend Developer
 
 ---
